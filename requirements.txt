@@ -1,0 +1,18 @@
+# Deep Learning and Tensor Operations
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Manipulation and Analysis
+numpy>=1.23.5
+pandas>=1.5.3
+
+# Machine Learning Metrics and Preprocessing
+scikit-learn>=1.2.2
+
+# Data Visualization (for generating plots similar to Figures 3, 4, 5, 6)
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Utilities
+jupyter>=1.0.0
+tqdm>=4.65.0
